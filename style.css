@@ -1,0 +1,37 @@
+* {
+    font-family: "Verdana", "Helvetica", "sans-serif";
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+#tacos {
+    background-color: rgb(255, 255, 0);
+    color: rgb(127, 0, 0);
+}
+
+#spaghetti {
+    background-color: rgb(0, 255, 0);
+    color: rgb(255, 0, 0);
+}
+
+#toast {
+    background-color: rgb(127, 127, 0);
+    color: rgb(255, 255, 255);
+}
+
+#tim {
+    font-size: 64px;
+}
+
+#menu {
+    text-align: center;
+}
